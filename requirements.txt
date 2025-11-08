@@ -1,0 +1,8 @@
+kivy==2.3.0
+requests==2.31.0
+python-dotenv==1.0.0
+plyer==2.1.0
+Kivy-Garden==0.1.5
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+lxml==5.1.0
