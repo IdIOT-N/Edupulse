@@ -6,3 +6,5 @@ Kivy-Garden==0.1.5
 feedparser==6.0.11
 beautifulsoup4==4.12.3
 lxml==5.1.0
+kivy_deps.sdl2_dev>=0.7.0
+kivy_deps.gstreamer_dev>=0.3.3
